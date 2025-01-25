@@ -25,11 +25,7 @@ pip install scrapegraphai
 Sign up at [ScrapeGraphAI](https://scrapegraphai.com/) to get your API key.
 
 ### 3. Run the Script
-Use the following command to run the script:
-
-```bash
-python Script.py
-```
+Use your API key in place of **api_key** and run the script.
 
 This will start the scraping process, retrieve job listings from the specified URL, and save them into a CSV file named `output.csv`.
 
